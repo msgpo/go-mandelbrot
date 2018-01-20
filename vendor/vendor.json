@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "DjRU5LYE9ziiowpeyo82CcP7nVE=",
+			"path": "github.com/ALTree/bigfloat",
+			"revision": "ae0f20de766ed823c6eac83329e2a6731da14413",
+			"revisionTime": "2016-10-21T10:31:18Z"
+		},
+		{
+			"checksumSHA1": "cJE7dphDlam/i7PhnsyosNWtbd4=",
+			"path": "github.com/mattn/go-runewidth",
+			"revision": "97311d9f7767e3d6f422ea06661bc2c7a19e8a5d",
+			"revisionTime": "2017-05-10T07:48:58Z"
+		},
+		{
+			"checksumSHA1": "wCun4HkCtoCLRdvzjCUxpb9WtqM=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "2c42eef0765b9837fbdab12011af7830f55f88f0",
+			"revisionTime": "2018-01-16T19:39:04Z"
+		},
+		{
+			"checksumSHA1": "NCgmOJChH+i31phioVpuf6RGX3w=",
+			"path": "gopkg.in/cheggaaa/pb.v1",
+			"revision": "43d64de27312b32812ca7e994fa0bb03ccf08fdf",
+			"revisionTime": "2018-01-13T01:14:17Z"
+		}
+	],
+	"rootPath": "github.com/zzag/go-mandelbrot"
+}
