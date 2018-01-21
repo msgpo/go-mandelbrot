@@ -17,6 +17,7 @@ import (
 )
 
 func iterate(x, y, bailout *big.Float, maxIter int, prec uint) (int, *big.Float) {
+	// TODO: use object pool.
 	x0 := big.NewFloat(0.0).SetPrec(prec)
 	y0 := big.NewFloat(0.0).SetPrec(prec)
 
